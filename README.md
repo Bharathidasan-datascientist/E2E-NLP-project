@@ -1,5 +1,15 @@
 # E2E-NLP-project
 
+
+##Project Workflow
+
+-Constants
+-config_entity
+-artifact_entity
+-components
+-pipeline
+-main
+
 ##How to run?
 
 ```bash
@@ -15,6 +25,7 @@ pip install -r requirements.txt
 ```
 
 #Gcloud cli
+
 https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 
 ```bash
